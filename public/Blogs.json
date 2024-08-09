@@ -1,0 +1,59 @@
+[
+    {
+        
+        "title": "Exploring the Basics of Web Fonts",
+        "category": "Web Development",
+        "image": "https://images.unsplash.com/photo-1589153954586-953af22510a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9udHN8ZW58MHx8MHx8fDA%3D",
+        "author": "John Doe",
+        "date": "2024-07-08",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero sit amet augue bibendum, a dictum velit ullamcorper. Sed sit amet aliquam velit, nec ullamcorper ipsum. Cras a velit urna. Sed at purus eget dui facilisis dictum. Nullam sit amet mi tellus. In hac habitasse platea dictumst."
+    },
+    {
+        
+        "title": "The Impact of Typography in User Experience",
+        "category": "Design",
+        "image": "https://images.unsplash.com/photo-1589153954586-953af22510a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9udHN8ZW58MHx8MHx8fDA%3D",
+        "author": "Jane Smith",
+        "date": "2024-07-07",
+        "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus volutpat justo vel ligula volutpat, nec placerat purus posuere. Fusce auctor turpis ut magna volutpat, et ultricies turpis aliquet."
+    },
+    {
+        
+        "title": "Choosing the Right Font Pairings for Your Website",
+        "category": "Web Design",
+        "image": "https://images.unsplash.com/photo-1589153954586-953af22510a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9udHN8ZW58MHx8MHx8fDA%3D",
+        "author": "David Johnson",
+        "date": "2024-07-06",
+        "content": "Donec in posuere turpis. Fusce porttitor lorem at mi scelerisque, non accumsan nisl ullamcorper. Integer eget faucibus lectus, in placerat ex. Aliquam ultricies posuere nunc, ac ultrices ligula rutrum in."
+    }
+    ,
+        {
+            
+            "title": "Exploring the Basics of Web Fonts",
+            "category": "Web Development",
+            "image": "https://images.unsplash.com/photo-1589153954586-953af22510a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9udHN8ZW58MHx8MHx8fDA%3D",
+            "author": "John Doe",
+            "date": "2024-07-08",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero sit amet augue bibendum, a dictum velit ullamcorper. Sed sit amet aliquam velit, nec ullamcorper ipsum. Cras a velit urna. Sed at purus eget dui facilisis dictum. Nullam sit amet mi tellus. In hac habitasse platea dictumst."
+        },
+        {
+            
+            "title": "The Impact of Typography in User Experience",
+            "category": "Design",
+            "image": "https://images.unsplash.com/photo-1589153954586-953af22510a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9udHN8ZW58MHx8MHx8fDA%3D",
+            "author": "Jane Smith",
+            "date": "2024-07-07",
+            "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus volutpat justo vel ligula volutpat, nec placerat purus posuere. Fusce auctor turpis ut magna volutpat, et ultricies turpis aliquet."
+        },
+        {
+            
+            "title": "Choosing the Right Font Pairings for Your Website",
+            "category": "Web Design",
+            "image": "https://images.unsplash.com/photo-1589153954586-953af22510a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9udHN8ZW58MHx8MHx8fDA%3D",
+            "author": "David Johnson",
+            "date": "2024-07-06",
+            "content": "Donec in posuere turpis. Fusce porttitor lorem at mi scelerisque, non accumsan nisl ullamcorper. Integer eget faucibus lectus, in placerat ex. Aliquam ultricies posuere nunc, ac ultrices ligula rutrum in."
+        }
+    
+    
+]
