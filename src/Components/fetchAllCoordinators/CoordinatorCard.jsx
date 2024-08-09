@@ -6,7 +6,7 @@ const CoordinatorCard = ({ coordinator }) => {
 
   return (
     <Link to={`/coordinators/${coordinator._id}`}>
-      <div className="bg-stone-200 shadow-lg rounded-lg overflow-hidden w-full max-w-sm mx-auto">
+      <div className="bg-stone-200 shadow-lg rounded-lg overflow-hidden w-32 md:w-52 lg:w-72 max-w-sm mx-auto">
         <img 
           src={coordinator.image} 
           alt={coordinator.name} 

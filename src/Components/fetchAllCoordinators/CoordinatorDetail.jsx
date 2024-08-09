@@ -49,14 +49,14 @@ const CoordinatorDetail = () => {
 
       <div className="bg-gray-200 shadow-lg rounded-lg overflow-hidden w-full max-w-4xl mt-8 p-6">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">ব্যক্তিগত তথ্য</h2>
-        <p className="text-lg text-gray-700 leading-relaxed">
+        <p className="text-lg text-gray-700 leading-relaxed px-2">
           {bio}
         </p>
       </div>
 
       <div className="bg-gray-200 shadow-lg rounded-lg overflow-hidden w-full max-w-4xl mt-8 p-6">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">অবদান ও ভূমিকা</h2>
-        <p className="text-lg text-gray-700 leading-relaxed">
+        <p className="text-lg text-gray-700 leading-relaxed px-2">
           {role}
         </p>
       </div>

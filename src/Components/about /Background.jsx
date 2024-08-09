@@ -2,7 +2,7 @@ import React from 'react';
 
 const Background = () => {
     return (
-        <div className="flex flex-col items-center p-2 my-10 text-gray-50 shadow-lg rounded-lg max-w-6xl mx-auto bg-slate-500">
+        <div className="flex flex-col items-center p-2 my-10 text-gray-50 shadow-lg rounded-lg max-w-6xl mx-auto bg-[#063b01]">
             <div className="md:w-1/3 mb-6 md:mb-0">
                 <div className=" pb-2/3 md:h-full md:pb-0 overflow-hidden rounded-lg shadow-md">
                     <img 

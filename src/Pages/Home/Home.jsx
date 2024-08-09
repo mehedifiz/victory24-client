@@ -4,6 +4,7 @@ import Hero from "../../Components/Hero/Hero";
 import CoordinatorsList from "../../Components/fetchAllCoordinators/CoordinatorsList";
 import About from "../../Components/about /About";
 import Background from "../../Components/about /Background";
+import Demands from "../../Components/Demands";
 
 
 const Home = () => {
@@ -14,6 +15,10 @@ const Home = () => {
             {/* <Counter></Counter> */}
             <About></About>
             <Background></Background>
+
+            <Demands></Demands>
+
+            
 
             <CoordinatorsList></CoordinatorsList>
             

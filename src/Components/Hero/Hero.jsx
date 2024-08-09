@@ -11,7 +11,7 @@ const Hero = () => {
             </p>
 
             <div className="flex items-center space-x-4 shadow-md p-4 bg-green-800 dark:bg-gray-700 rounded-lg">
-                <Link to="/post-blog">
+                <Link to="/post-content">
                     <button className="btn bg-red-700 hover:bg-red-600 text-white border-none">
                          নিবন্ধন করুন
                     </button>
